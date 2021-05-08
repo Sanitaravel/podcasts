@@ -47,7 +47,7 @@
           <v-divider />
           <v-list-item>
             <v-container align-content-center>
-              <v-btn text>Register</v-btn>
+              <v-btn to="/register" text>Register</v-btn>
             </v-container>
           </v-list-item>
         </v-list>
